@@ -39,7 +39,7 @@ Dirancang untuk membantu pengguna **mengelola anggaran harian secara efektif mel
 - 🌎 **Multi Platform** – Akses via Web dan Mobile App.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-org/MoneyMate/main/docs/assets/dashboard.png" width="600" alt="Dashboard Preview">
+  <img src="https://raw.githubusercontent.com/your-org/MoneyMate/main/docs/assets/landing.png" width="600" alt="Dashboard Preview">
 </p>
 
 ---
