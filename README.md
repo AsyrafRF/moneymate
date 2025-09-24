@@ -59,8 +59,8 @@ Jika kamu ingin belajar mengembangkan MoneyMate, silakan ikuti panduan instalasi
 Clone repo ini:
 
 ```bash
-git clone https://github.com/your-org/MoneyMate.git
-cd MoneyMate
+git clone https://github.com/AsyrafRF/moneymate.git
+cd moneymate
 ```
 
 Install dependencies:
@@ -95,4 +95,4 @@ MoneyMate adalah software yang dikembangkan dalam Project Based Learning di bawa
 
 
 
-<p align="center"> Dibuat dengan ❤️ oleh <a href="https://github.com/your-org">PBL-TRPL517 A Team</a> </p> 
+<p align="center"> Dibuat dengan ❤️ oleh <a href="https://www.instagram.com/moneymate.trpl/">PBL-TRPL517 A Team</a> </p> 
