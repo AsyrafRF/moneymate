@@ -28,12 +28,12 @@
                             
                             <div class="mb-3">
                                 <i class="fas fa-phone text-primary me-3"></i>
-                                <strong>Telepon:</strong> +62 123 456 7890
+                                <strong>Telepon:</strong> +62 821-7243-7617
                             </div>
                             
                             <div class="mb-3">
                                 <i class="fas fa-map-marker-alt text-primary me-3"></i>
-                                <strong>Alamat:</strong> Jl. Teknologi No. 123, Jakarta, Indonesia
+                                <strong>Alamat:</strong> Jl. Ahmad Yani, Tlk. Tering, Kec. Batam Kota, Kota Batam, Kepulauan Riau 29444
                             </div>
                             
                             <div class="mb-3">

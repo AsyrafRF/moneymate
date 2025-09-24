@@ -118,6 +118,67 @@
     </div>
 </section>
 
+<!-- Pricing List -->
+<section id="pricing" class="py-5">
+    <div class="container">
+        <h2 class="text-center mb-5" data-aos="fade-up">Paket Harga MoneyMate</h2>
+        <div class="row">
+            <!-- Paket Gratis -->
+            <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="card h-100 text-center border-primary">
+                    <div class="card-header bg-primary text-white">
+                        <h4 class="my-0">Gratis</h4>
+                    </div>
+                    <div class="card-body">
+                        <h3 class="card-title pricing-card-title">Rp0<span class="fs-6 fw-light">/bln</span></h3>
+                        <ul class="list-unstyled mt-3 mb-4">
+                            <li>✔ Catat Pemasukan & Pengeluaran</li>
+                            <li>✔ Grafik Dasar</li>
+                            <li>✖ Fitur Premium</li>
+                        </ul>
+                        <button class="btn btn-outline-primary w-100">Mulai</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Paket Pro -->
+            <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="200">
+                <div class="card h-100 text-center border-success shadow-lg">
+                    <div class="card-header bg-success text-white">
+                        <h4 class="my-0">Pro</h4>
+                    </div>
+                    <div class="card-body">
+                        <h3 class="card-title pricing-card-title">Rp49.000<span class="fs-6 fw-light">/bln</span></h3>
+                        <ul class="list-unstyled mt-3 mb-4">
+                            <li>✔ Semua Fitur Gratis</li>
+                            <li>✔ Analisis Lanjutan</li>
+                            <li>✔ Support Prioritas</li>
+                        </ul>
+                        <button class="btn btn-success w-100">Pilih Pro</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Paket Premium -->
+            <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="card h-100 text-center border-warning">
+                    <div class="card-header bg-warning text-dark">
+                        <h4 class="my-0">Premium</h4>
+                    </div>
+                    <div class="card-body">
+                        <h3 class="card-title pricing-card-title">Rp99.000<span class="fs-6 fw-light">/bln</span></h3>
+                        <ul class="list-unstyled mt-3 mb-4">
+                            <li>✔ Semua Fitur Pro</li>
+                            <li>✔ Backup & Sinkronisasi Cloud</li>
+                            <li>✔ Akses Penuh Laporan</li>
+                            <li>✔ Rekomendasi Finansial AI</li>
+                        </ul>
+                        <button class="btn btn-warning w-100">Pilih Premium</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <script>
 function scrollToFeatures() {
     document.getElementById('features').scrollIntoView({ 

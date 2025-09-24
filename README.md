@@ -9,18 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-org/MoneyMate/actions">
-    <img src="https://github.com/your-org/MoneyMate/workflows/tests/badge.svg" alt="Build Status">
-  </a>
-  <a href="https://packagist.org/packages/your-org/MoneyMate">
-    <img src="https://img.shields.io/packagist/dt/your-org/MoneyMate" alt="Total Downloads">
-  </a>
-  <a href="https://packagist.org/packages/your-org/MoneyMate">
-    <img src="https://img.shields.io/packagist/v/your-org/MoneyMate" alt="Latest Stable Version">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
-  </a>
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
 ---
@@ -46,9 +38,9 @@ Dirancang untuk membantu pengguna **mengelola anggaran harian secara efektif mel
 
 ## 📚 Dokumentasi & Pembelajaran
 
-- [Dokumentasi Backend (Laravel API)](https://MoneyMate.app/docs/backend)  
-- [Dokumentasi Frontend (Flutter Web & Mobile)](https://MoneyMate.app/docs/frontend)  
-- [Demo Live](https://MoneyMate.app/demo)  
+- [Dokumentasi Backend](#)  
+- [Dokumentasi Frontend](#)  
+- [Demo Live](#)  
 
 Jika kamu ingin belajar mengembangkan MoneyMate, silakan ikuti panduan instalasi di bawah atau cek video tutorial di [YouTube Channel](https://youtube.com/yourchannel).
 
@@ -69,6 +61,17 @@ Install dependencies:
 composer install
 cp .env.example .env
 php artisan key:generate
+```
+
+Edit env:
+
+```sql
+DB_CONNECTION=mysql
+DB_HOST=
+DB_PORT=
+DB_DATABASE=samakan-dengan-phpmyadmin
+DB_USERNAME=
+DB_PASSWORD=
 ```
 
 Migrasi database:
