@@ -30,7 +30,7 @@
                     <div class="card h-100">
                         <div class="card-body text-center">
                             <i class="fas fa-user-circle fa-5x text-primary mb-3"></i>
-                            <h5>Ahmad Developer</h5>
+                            <h5>@AsyrafRF</h5>
                             <p class="text-muted">Full Stack Developer</p>
                             <p>Bertanggung jawab dalam pengembangan backend dan frontend aplikasi MoneyMate.</p>
                         </div>
@@ -40,7 +40,7 @@
                     <div class="card h-100">
                         <div class="card-body text-center">
                             <i class="fas fa-user-circle fa-5x text-primary mb-3"></i>
-                            <h5>Sarah Designer</h5>
+                            <h5>Fauzan</h5>
                             <p class="text-muted">UI/UX Designer</p>
                             <p>Merancang interface yang menarik dan pengalaman pengguna yang optimal.</p>
                         </div>

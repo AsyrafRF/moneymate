@@ -66,13 +66,14 @@ body {
 }
 
 .btn-daftar {
-    background: var(--secondary-color);
+    background: #4f9fe0;
     color: white;
     border: none;
 }
 
 .btn-daftar:hover {
     background: #2a69ac;
+    color: #00d9ff;
 }
 
 /* Hero Section */
@@ -159,9 +160,12 @@ body {
 
 /* Floating Icons Animation */
 @keyframes float {
-    0%, 100% {
+
+    0%,
+    100% {
         transform: translateY(0px);
     }
+
     50% {
         transform: translateY(-10px);
     }
@@ -172,11 +176,11 @@ body {
     .hero-title {
         font-size: 2.5rem;
     }
-    
+
     .hero-subtitle {
         font-size: 1rem;
     }
-    
+
     .btn-lihat {
         padding: 12px 25px;
         font-size: 1rem;
