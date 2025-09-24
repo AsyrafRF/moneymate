@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://MoneyMate.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/moneymate/docs/assets/logo.png" width="300" alt="MoneyMate Logo">
+    <img src="https://raw.githubusercontent.com/AsyrafRF/moneymate/main/docs/assets/logo.png" width="300" alt="MoneyMate Logo">
   </a>
 </p>
 
@@ -39,7 +39,7 @@ Dirancang untuk membantu pengguna **mengelola anggaran harian secara efektif mel
 - 🌎 **Multi Platform** – Akses via Web dan Mobile App.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/moneymate/docs/assets/landing.png" width="600" alt="Dashboard Preview">
+  <img src="https://raw.githubusercontent.com/AsyrafRF/moneymate/main/docs/assets/landing.png" width="600" alt="Dashboard Preview">
 </p>
 
 ---
