@@ -12,7 +12,7 @@
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<!-- <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a> -->
 </p>
 
 ---
@@ -28,7 +28,7 @@ Dirancang untuk membantu pengguna **mengelola anggaran harian secara efektif mel
 - 🔔 **Notifikasi & Reminder** – Ingatkan saat hampir melewati anggaran.
 - 🧾 **Pencatatan Transaksi Cepat** – Input harian dengan UI yang simpel.
 - 🔒 **Keamanan Data** – Enkripsi dan proteksi akun.
-- 🌎 **Multi Platform** – Akses via Web dan Mobile App.
+- 🌎 **Multi Platform** – Akses via Web dan Mobile Web.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AsyrafRF/moneymate/main/docs/assets/landing.png" width="600" alt="Dashboard Preview">
